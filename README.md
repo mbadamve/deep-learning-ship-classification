@@ -43,7 +43,7 @@ Parameters:
 In the Jupyter Notebook furthers models can be found. Illustrating one model results below.
 
 ![](Model_Sample.png)
-## The model is trained for 15 epochs and the maximum validation accuracy achieved is 65.83%
+The model is trained for 15 epochs and the maximum validation accuracy achieved is 65.83%
 
 ## Results
 1. The model is trained with epochs of 15 initially but repeated training of the model in the running kernel makes the model overfit the data and could result in fake accuracies.
